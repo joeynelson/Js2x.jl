@@ -1,0 +1,13 @@
+name = "Js2x"
+uuid = "4bee2c6f-1a61-4fd3-b1b7-0c4e08070d69"
+authors = ["Joey Nelson <joey@joescan.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
